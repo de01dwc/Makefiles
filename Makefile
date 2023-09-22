@@ -6,9 +6,9 @@
 
 # define variables
 
-CC = g++
-CFlags = -g -Wall -Wextra
-Target = employee
+CC = g++                   # the compiler to use
+CFlags = -g -Wall -Wextra  # compile options to show all errors and warnings
+Target = employee          # compiled filename
 
 # set the default command
 

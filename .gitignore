@@ -1,0 +1,5 @@
+# file list to ignore
+
+*.o
+*~
+employee
